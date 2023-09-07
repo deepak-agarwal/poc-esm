@@ -1,0 +1,10 @@
+{
+  "https://esm.sh/antd?bundle": { "resolved": "https://esm.sh/antd@5.8.6?bundle", "integrity": "sha512-EqMVGcj1KewxoUIqgk6vtw6+c3LtXRMoLD5ojSGs3m7irEgXf9sIthtplb2eFqh7sVsOysjjx4scYGMa9Yrrng==", "contentType": "application/javascript; charset=utf-8" },
+  "https://esm.sh/canvas-confetti@1.6.0": { "integrity": "sha512-e/cyWoW6Q8N5KVFDU065cMi5YKHZcCl1YFPZEdEHTgHh87yKwI5SZydWWDPbpzeuEswegox8Q0cEjreLhT82zA==", "contentType": "application/javascript; charset=utf-8" },
+  "https://esm.sh/stable/react@18.2.0/esnext/react.mjs": { "integrity": "sha512-ZMWjB4iKU6HwEbK4x92y6q/AhQgezZGVrpc/I7Hq00uFEmf4FPoKl3oTojncErXt793JUItACB5gf742elKTvQ==", "contentType": "application/javascript; charset=utf-8" },
+  "https://esm.sh/v132/antd@5.8.6/esnext/antd.bundle.mjs": { "integrity": "sha512-qJCEFuxs0WAxICCk8uMv1Md30EmV7WhSQ7W6GY0w3HRgS5sORWCypCPTkqcHqQ3EYCNPI03gSKdbprT771pqmQ==", "contentType": "application/javascript; charset=utf-8" },
+  "https://esm.sh/v132/canvas-confetti@1.6.0/esnext/canvas-confetti.mjs": { "integrity": "sha512-HHTOdo0bUQmnGZndh31lEkO5xGIycjZpujgxIMuaGoZy2aDyE56Iz5BHdSgts7bPfp3Pfa45GOoIkGDKgCAFmA==", "contentType": "application/javascript; charset=utf-8" },
+  "https://esm.sh/v132/react-dom@18.2.0/esnext/react-dom.mjs": { "integrity": "sha512-F3a8z7HsO4EfH7zx/bWEuA4qk9oGAtlW/m4KL0L2qWNZbp07aasl8HmwZ+K6DyVmgyarEKIck1QYN7xqMpwxnw==", "contentType": "application/javascript; charset=utf-8" },
+  "https://esm.sh/v132/scheduler@0.23.0/esnext/scheduler.mjs": { "integrity": "sha512-tDdTU2nbDRSqhPmJHexM/gS2WvSYLXaFy2fI0UEfbv9rE5hWGWvQY4Q+SZBYNlYC6p0MpGfoVmdFv0h3lOtJNg==", "contentType": "application/javascript; charset=utf-8" },
+  "version": 1
+}
